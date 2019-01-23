@@ -17,3 +17,4 @@ Name and GitHub username/profile
 * Spencer Van Koevering[ARevanchist](https://github.com/ARevanchist)
 * Benjamin Hetter [bhetter](https://github.com/bhetter)
 * Sage Levin [sagelevin](https://github.com/sagelevin)
+* Colin Aslett [ColinAslett](https://github.com/ColinAslett)
